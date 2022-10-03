@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Robert0362
+- 👋 Hi, I’m Robert Schwindler
 - 👀 I’m interested in coding, Warhammer, politics and trying 3d printing
 - 🌱 I’m currently learning front end development
 - 💞️ I’m looking to collaborate on HTML/CSS/Javascript
